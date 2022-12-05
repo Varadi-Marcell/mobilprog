@@ -1,4 +1,6 @@
-[
+{
+  "users": [
+   [
   {
     "id": 1,
     "name": "User1",
@@ -20,3 +22,5 @@
     "email": "user4@gmail.com"
   }
 ]
+  ]
+}
