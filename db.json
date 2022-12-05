@@ -1,6 +1,6 @@
 {
   "users": [
-   [
+   
   {
     "id": 1,
     "name": "User1",
@@ -21,6 +21,6 @@
     "name": "User4",
     "email": "user4@gmail.com"
   }
-]
+
   ]
 }
