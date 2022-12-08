@@ -1,25 +1,29 @@
 {
-  "users": [
+  "university": [
    
   {
     "id": 1,
-    "name": "User1",
-    "email": "user1@gmail.com"
+    "name": "Miskolci Egyetem",
+    "postalCode": "3515",
+    "city": "Miskolc"
   },
   {
     "id": 2,
-    "name": "User2",
-    "email": "user2@gmail.com"
+    "name": "ELTE",
+    "postalCode": "1088",
+    "city" : "Budapest"
   },
   {
     "id": 3,
-    "name": "User3",
-    "email": "user3@gmail.com"
+    "name": "Debreceni Egyetem",
+    "postalCode": "4027",
+    "city" : "Debrecen"
   },
   {
     "id": 4,
-    "name": "User4",
-    "email": "user4@gmail.com"
+    "name": "BME",
+    "postalCode": "1111",
+    "city" : "Budapest"
   }
 
   ]
